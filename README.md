@@ -9,5 +9,5 @@ Without access to precision radar sensors or other such equipment deployed by �
 
 
 
-#Caveats
+# Caveats
 Due to computer-vision deficiencies, much like human vision, data was not collected when the camera was unable to “see” traffic flow, such as at night or in inclement weather.  Automobiles traveling at excessive speeds were not accurately recorded due to insufficient computing power, so all samples recorded above 50 MPH were discarded.  To eliminate bicycles, walkers, and cars that were slowing for a turn onto or off South Basin Street, I removed all samples below 18 MPH.
