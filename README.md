@@ -19,3 +19,11 @@ Time constraints and other problems related to 2020 took precedence over any in-
 * The average speed across all samples was 27.9 MPH, with a median of 25.81.  So far, so good.
 * The 85th Percentile speed, which is important to traffic engineers and policymakers, was 37 MPH.  The 85th percentile speed indicates the speed that most motorists on the road consider safe and reasonable under ideal conditions. Traffic engineering manuals usually want this number to be less than 5-10 MPH above the posted speed limit.  We’re at 12 above.
 * 2779 samples showed cars traveling between 40 and 50 MPH.  More than 3000 samples registering above 50 MPH were discarded for data quality purposes. Even if a small percentage were accurate, that shows many very high-speed vehicles on a 25 MPH street.
+
+# Takeaways (where I get myself into trouble)
+
+In many ways, speeding on North Third Street is entirely understandable and predictable.  It is a single path leading to a great deal of economic activity.  The industries served by this street are staffed by young, virile men who love fast cars and have short lunch breaks.  That being said, the speed problems have only increased since I collected this data more than one year ago.  What can be done?
+* Enforcement should be timed for shift changes at the Port.
+* The Town could invest in a permanently installed radar-enabled speed limit sign for North Third or a portable unit (TC-400 from Radarsign) for use in all problem areas around town.
+* Engagement directly with companies around the North Basin and/or the Port.
+
