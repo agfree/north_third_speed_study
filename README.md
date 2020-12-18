@@ -23,7 +23,15 @@ Time constraints and other problems related to 2020 took precedence over any in-
 # Takeaways (where I get myself into trouble)
 
 In many ways, speeding on North Third Street is entirely understandable and predictable.  It is a single path leading to a great deal of economic activity.  The industries served by this street are staffed by young, virile men who love fast cars and have short lunch breaks.  That being said, the speed problems have only increased since I collected this data more than one year ago.  What can be done?
-* Enforcement should be timed for shift changes at the Port.
+* Enforcement (Sheriff) should be timed for shift changes at compaines around the North Basin.
 * The Town could invest in a permanently installed radar-enabled speed limit sign for North Third or a portable unit (TC-400 from Radarsign) for use in all problem areas around town.
-* Engagement directly with companies around the North Basin and/or the Port.
+* Town government engagement directly with companies around the North Basin and/or the Port.
+* More food trucks at the North Basin.
+
+# Conclusion
+
+I am not a traffic engineer, and my statistical analysis skills have faded somewhat due to disuse.  Thanks to a lot of reading and the project being in-line with many of my interests and hobbies, I learned a lot.  I hope I was able to provide a bit of clarity to the speeding problem on North Third Street.  Thanks for reading.
+ 
+
+
 
