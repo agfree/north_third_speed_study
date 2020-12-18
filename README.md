@@ -33,5 +33,9 @@ In many ways, speeding on North Third Street is entirely understandable and pred
 I am not a traffic engineer, and my statistical analysis skills have faded somewhat due to disuse.  Thanks to a lot of reading and the project being in-line with many of my interests and hobbies, I learned a lot.  I hope I was able to provide a bit of clarity to the speeding problem on North Third Street.  Thanks for reading.
  
 
+## References
 
+1. Guan Xu, Federal Highway Administration, US Department of Transportation, Methods and Practices for Setting Speed Limits:An Informational Report
+2. City of Delaware, Ohio, A Residential Guide to Neighborhood Speed Enforcement
+3. Center for Transportation Research and Education, Iowa State University, Handbook of Simplified Practice for Traffic Studies
 
